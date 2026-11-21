@@ -24,6 +24,10 @@ Graduanda em Engenharia de Software (3º período), com foco em programação em
 
 ### Projetos
 
+**[Programa ARCA — Prefeitura Municipal da Serra/ES](https://github.com/thayrinacs/programa-ARCA)**<br>
+Plataforma web desenvolvida em grupo para o programa de bem-estar animal da Prefeitura da Serra, reunindo cadastro e acesso de usuários, agendamento de castração gratuita, denúncia anônima de maus-tratos, adoção responsável e integração com ONGs parceiras. O projeto foi selecionado para apresentação na Prefeitura.<br>
+*HTML · CSS · JavaScript*
+
 **Automação de lançamento de vendas — Mercado Phone**<br>
 Sistema que coleta as vendas registradas em canal de atendimento de uma loja de celulares e as lança automaticamente no sistema de gestão por meio de API, gerando relatório em PDF. Desenvolvido com apoio de inteligência artificial.
 
