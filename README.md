@@ -18,6 +18,7 @@ Graduanda em Engenharia de Software (3º período), com foco em programação em
 | Linguagem de programação | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
 | Banco de dados | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) |
 | Desenvolvimento web | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) |
+| Sistemas operacionais | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
 | Ferramentas | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | Automação | Integração de APIs e inteligência artificial |
 
