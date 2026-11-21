@@ -9,7 +9,7 @@ Graduanda em Engenharia de Software (3º período), com foco em programação em
 ### Formação
 
 - **Engenharia de Software** — Universidade Vila Velha (UVV), graduação em andamento (3º período)
-- **Banco de Dados** — Curso Oracle
+- **Database Foundations** — Oracle Academy, certificado de conclusão (jul/2026)
 
 ### Competências técnicas
 
