@@ -1,12 +1,13 @@
-<img src="assets/cabecalho.png" width="100%" alt="Thayrina Stange. Engenharia de Software, UVV. Banco de dados, programação em C e automação de processos com IA." />
+<div align="center">
 
-<br />
+<img src="assets/perfil.svg" width="100%" alt="Thayrina Stange. Banco de dados, código e automação. Engenharia de Software, UVV, Oracle Academy. Stack: C, PostgreSQL, Oracle, SQL, HTML5, CSS3, Bootstrap, Figma, Miro, Linux, Ubuntu, Git, Claude e APIs." />
 
-Graduanda em Engenharia de Software na **Universidade Vila Velha (UVV)**, com foco em banco de dados relacional, programação em C e automação de processos com inteligência artificial. Certificada em **Database Foundations** pela Oracle Academy (2026).
+<br /><br />
 
-<br />
+<a href="mailto:thayrinacs@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email" /></a>&nbsp;
+<a href="https://thayrinacs.github.io/programa-ARCA/"><img src="assets/btn-arca.svg" height="40" alt="Programa ARCA" /></a>
 
-<img src="assets/tecnologias.png" width="100%" alt="Competências técnicas. Linguagem: C. Banco de dados: PostgreSQL, Oracle, SQL. Web: HTML5, CSS3, Bootstrap. Design e UX: Figma, Miro. Sistemas: Linux, Ubuntu. Ferramentas: Git, GitHub. Automação e IA: Claude, integração de APIs." />
+</div>
 
 <br />
 
@@ -21,6 +22,7 @@ Sistema que coleta as vendas registradas em canal de atendimento de uma loja de 
 **[Programação em C](https://github.com/thayrinacs/laboratorio-programacao-c)**<br>
 Implementações em C abordando ponteiros, structs, manipulação de arquivos, modularização com bibliotecas próprias (`.h`), matrizes, strings e funções. Inclui aplicações como sistema de cadastro de funcionários e controle de assentos.
 
-<br />
+### Formação
 
-<sub><a href="mailto:thayrinacs@gmail.com">thayrinacs@gmail.com</a> &nbsp;·&nbsp; <a href="https://thayrinacs.github.io/programa-ARCA/">Programa ARCA</a></sub>
+- **Engenharia de Software** — Universidade Vila Velha (UVV), graduação em andamento (3º período)
+- **Database Foundations** — Oracle Academy, certificado de conclusão (jul/2026)
