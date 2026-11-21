@@ -23,10 +23,10 @@ Graduanda em Engenharia de Software (3º período), com foco em programação em
 
 ### Projetos
 
-**Automação de lançamento de vendas — Mercado Phone**
+**Automação de lançamento de vendas — Mercado Phone**<br>
 Sistema que coleta as vendas registradas em canal de atendimento de uma loja de celulares e as lança automaticamente no sistema de gestão por meio de API, gerando relatório em PDF. Desenvolvido com apoio de inteligência artificial.
 
-**[Laboratório de Programação em C](https://github.com/thayrinacs/laboratorio-programacao-c)**
+**[Laboratório de Programação em C](https://github.com/thayrinacs/laboratorio-programacao-c)**<br>
 Repositório com as atividades práticas da disciplina de Laboratório de Programação.
 
 ### Contato
