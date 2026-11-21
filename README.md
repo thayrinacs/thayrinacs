@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/perfil.svg" width="100%" alt="Thayrina Stange. Banco de dados, código e automação. Engenharia de Software, UVV, Oracle Academy. Stack: C, PostgreSQL, Oracle, SQL, HTML5, CSS3, Bootstrap, Figma, Miro, Linux, Ubuntu, Git, Claude e APIs." />
+<img src="assets/perfil.svg?v=4" width="100%" alt="Thayrina Stange. Banco de dados, código e automação. Engenharia de Software, UVV, Oracle Academy. Stack: C, PostgreSQL, Oracle, SQL, HTML5, CSS3, Bootstrap, Figma, Miro, Linux, Ubuntu, Git, Claude e APIs." />
 
 <br /><br />
 
-<a href="mailto:thayrinacs@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email" /></a>
+<a href="mailto:thayrinacs@gmail.com"><img src="assets/btn-email.svg?v=4" height="40" alt="Email" /></a>
 
 </div>
 
