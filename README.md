@@ -25,13 +25,14 @@ Graduanda em Engenharia de Software (3º período), com foco em programação em
 
 ### Projetos
 
-**[Programa ARCA — Prefeitura Municipal da Serra/ES](https://github.com/thayrinacs/programa-ARCA)**<br>
+**[Programa ARCA — Prefeitura Municipal da Serra/ES](https://github.com/thayrinacs/programa-ARCA)** · [ver aplicação](https://thayrinacs.github.io/programa-ARCA/)<br>
 Projeto interdisciplinar de Engenharia de Software (UVV, 2026) para o programa de bem-estar animal da Prefeitura da Serra. A solução reúne cadastro de usuários, agendamento de castração gratuita, denúncia anônima de maus-tratos, adoção responsável e integração com ONGs parceiras.
 
 - **Pesquisa e UX:** moodboard, card sorting, user flows e testes de usabilidade, com organização e ideação no Miro
 - **UI Design:** design system e style guide completos (paleta, tipografia, iconografia, grids e componentes) no Figma
 - **Protótipo:** protótipo navegável no Figma cobrindo todo o fluxo da solução
-- **Front-end:** implementação em HTML, CSS e JavaScript
+- **Banco de dados:** modelagem conceitual e física em PostgreSQL (6 entidades), scripts DDL e consultas para relatórios gerenciais
+- **Front-end:** Single Page Application em HTML, CSS, JavaScript e Bootstrap, publicada no GitHub Pages
 - **Resultado:** projeto selecionado entre os da turma para apresentação em formato de pitch à Prefeitura da Serra
 
 **Automação de lançamento de vendas — Mercado Phone**<br>
