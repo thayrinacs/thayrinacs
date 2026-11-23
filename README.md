@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/perfil.svg?v=4" width="100%" alt="Thayrina Stange. Banco de dados, código e automação. Engenharia de Software, UVV, Oracle Academy. Stack: C, PostgreSQL, Oracle, SQL, HTML5, CSS3, Bootstrap, Figma, Miro, Linux, Ubuntu, Git, Claude e APIs." />
+<img src="assets/perfil.svg?v=5" width="100%" alt="Thayrina Stange. Banco de dados, código e automação. Engenharia de Software, UVV, Oracle Academy. Stack: C, PostgreSQL, Oracle, SQL, HTML5, CSS3, Bootstrap, Figma, Miro, Linux, Ubuntu, Git, Claude e APIs." />
 
 <br /><br />
 
-<a href="mailto:thayrinacs@gmail.com"><img src="assets/btn-email.svg?v=4" height="40" alt="Email" /></a>
+<a href="mailto:thayrinacs@gmail.com"><img src="assets/btn-email.svg?v=5" height="40" alt="Email" /></a>
 
 </div>
 
@@ -17,6 +17,9 @@ Sistema que coleta as vendas registradas em canal de atendimento de uma loja de 
 
 **[Programação em C](https://github.com/thayrinacs/laboratorio-programacao-c)**<br>
 Implementações em C abordando ponteiros, structs, manipulação de arquivos, modularização com bibliotecas próprias (`.h`), matrizes, strings e funções. Inclui aplicações como sistema de cadastro de funcionários e controle de assentos.
+
+**[Sistemas Operacionais e Linux](https://github.com/thayrinacs/sistemas-operacionais-linux)**<br>
+Trabalho acadêmico sobre boot, entrada e saída, sistemas de arquivos, permissões, processos e gerenciamento de memória, com shell scripts executados em Ubuntu. Documento de 65 páginas escrito em LaTeX (abnTeX2), segundo as normas da ABNT.
 
 **[Programa ARCA](https://github.com/thayrinacs/programa-ARCA)** · [ver aplicação](https://thayrinacs.github.io/programa-ARCA/)<br>
 Plataforma web de bem-estar animal para a Prefeitura da Serra/ES, desenvolvida em grupo no Projeto Integrador da UVV (UX/UI no Figma e Miro, banco de dados em PostgreSQL e front-end em HTML, CSS e JavaScript).
